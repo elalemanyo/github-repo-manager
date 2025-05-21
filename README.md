@@ -6,7 +6,7 @@ A Ruby command-line tool to list, filter, and clone repositories from a GitHub u
 
 - [GitHub CLI](https://cli.github.com/) installed and authenticated
 - Ruby (2.5 or higher recommended)
-- Required gems will be automatically installed (colorize, terminal-table)
+- Required gems will be automatically installed ([colorize](https://github.com/fazibear/colorize), [terminal-table](https://github.com/tj/terminal-table))
 
 ## Features
 
