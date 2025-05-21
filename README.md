@@ -1,6 +1,6 @@
 # GitHub Repository Manager
 
-A Ruby command-line tool to list, filter, and clone repositories from a GitHub user or organization. This script utilizes the GitHub CLI (`gh`) to fetch repository information and provides various output formats and filtering options.
+A Ruby command-line tool to list, filter, and clone repositories from a GitHub user or organisation. This script utilizes the GitHub CLI (`gh`) to fetch repository information and provides various output formats and filtering options.
 
 ## Prerequisites
 
@@ -36,7 +36,7 @@ Basic usage:
 
 | Option | Long option | Description | Default value |
 |--------|-------------|-------------|---------------|
-| `-o` | `--owner OWNER` | GitHub user/organization name (required) | None |
+| `-o` | `--owner OWNER` | GitHub user/organisation name (required) | None |
 | `-v` | `--visibility TYPE` | Repository visibility filter (all, public, private, internal) | all |
 | `-f` | `--format FORMAT` | Output format (simple, full, json) | simple |
 | `-s` | `--sort FIELD` | Sort field (name, pushed, created) | name |
